@@ -1,0 +1,49 @@
+{
+  "businessName": "Blessed Oluebube Enterprises",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Excellence in Manufacturing, Commitment to Quality",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Blessed Oluebube Enterprises - Your Trusted Manufacturing Partner in Lagos. We deliver quality manufactured products with precision, reliability, and excellence. Serving businesses across Nigeria with commitment and integrity.",
+      "imagePrompt": "Modern Nigerian manufacturing facility exterior with clean industrial architecture, large warehouse doors, delivery trucks, well-maintained compound with palm trees, bright Lagos daylight, professional industrial photography, high quality, sharp focus",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Blessed Oluebube Enterprises is a leading manufacturing company based in Alimosho, Lagos. We specialize in producing high-quality manufactured goods that meet both local and international standards. Our state-of-the-art facility and experienced team ensure that every product leaving our factory reflects our commitment to excellence. We pride ourselves on timely delivery, competitive pricing, and unwavering dedication to customer satisfaction. With years of experience in the Nigerian manufacturing sector, we understand the unique needs of our clients and consistently deliver solutions that drive their business growth.",
+      "imagePrompt": "Interior of a Nigerian manufacturing plant showing organized production floor, modern machinery, workers in safety gear and uniforms, quality control stations, clean well-lit workspace, professional industrial environment, photorealistic",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Manufacturing Excellence: We offer comprehensive manufacturing solutions tailored to your business needs. Our services include custom manufacturing, bulk production, quality assurance and testing, packaging and labeling, logistics and delivery coordination, and product development consultation. We work with various materials and specifications to bring your vision to life while maintaining the highest quality standards throughout the production process.",
+      "imagePrompt": "Close-up shots of Nigerian manufacturing processes, hands assembling quality products, precision machinery in action, quality inspection with calipers and measuring tools, finished products on conveyor belt, professional industrial photography with warm lighting",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Us",
+      "copy": "Quality Assurance: Every product undergoes rigorous quality control before leaving our facility. Competitive Pricing: We offer excellent value without compromising on quality. Timely Delivery: We understand that time is money in business and always meet our deadlines. Local Expertise: Deep understanding of the Nigerian market and business environment. Modern Equipment: Our facility is equipped with contemporary manufacturing technology. Customer Support: Dedicated team available to address your concerns and provide updates.",
+      "imagePrompt": "Collage showing Nigerian manufacturing excellence - quality control inspector examining products with magnifying glass, satisfied customer shaking hands with manufacturer, modern warehouse with organized inventory, delivery truck with company branding, professional business setting",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to partner with a reliable manufacturing company? Contact Blessed Oluebube Enterprises today for quality manufacturing solutions. Whether you need a quote, want to discuss your project requirements, or have questions about our services, our team is ready to assist you. Visit our facility in Alimosho or reach out via phone, WhatsApp, or email. We look forward to serving you and helping your business grow.",
+      "imagePrompt": "Professional Nigerian business office reception area, friendly staff at desk ready to assist customers, modern office interior with company branding, Lagos business district atmosphere, bright natural lighting, welcoming environment, photorealistic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "0814 112 0423",
+    "email": "info@blessedoluebube.com.ng",
+    "address": "No 152 Wole Oladotun, Alimosho, Lagos, Nigeria",
+    "whatsapp": "https://wa.me/2348141120423"
+  }
+}
